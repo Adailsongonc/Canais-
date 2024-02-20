@@ -350,7 +350,7 @@ https://cr7v.short.gy/live/CanalGOAT/Index.m3u8
 
 ############################################################################ AO VIVO AGORA 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 1
 https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 2
@@ -371,6 +371,14 @@ https://live.seo.tv.bo/live/SEO-5.m3u8
 #EXTINF:-1 tvg-id="DAZN.br" tvg-name="Jogos de hoje HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/LIVEYOUTUBE.png" group-title=" Canais | Jogos de hoje ",Jogos de hoje HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/234252
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 7
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121606
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 8
+https://live.seo.tv.bo/live/SEO-5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SY31PgU.png" group-title="Canais | ESPORTES",Ge Fast HD
+https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8?ManoTV
 
 
 
