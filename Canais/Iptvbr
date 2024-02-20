@@ -2,7 +2,7 @@
 
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",19/02/2024
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",20/02/2024 as 17:55
 https://cr7v.short.gy/live3/GloboTVMirante/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.im.ge/2024/02/18/guEQ6P.Screenshot-20240217-195139-WhatsAppBusiness.jpg" group-title="DOAÇÃO",069.184.265-59 Adailson Gonçalves Ramos 
@@ -299,32 +299,47 @@ http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZev91o40nUnk
 
 ############################################################################ CANAIS PREMIERE
 
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD
-http://208.115.225.174:14460/
+#E #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes SD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/491
 
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD [Alter]
-http://208.115.225.174:14460/
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD
+https://cr7v.short.gy/manotv/PFCCLUBEHD/Index.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | ESPORTES",Premiere 2 HD
-http://208.115.225.174:14464/
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes FHD
+https://cr7v.short.gy/manotv/PremiereClube/Index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | ESPORTES",Premiere 2 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/498
 
 #EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | ESPORTES",Premiere 3 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/503
+
+#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | ESPORTES",Premiere 3 HD [Alter]
 http://185.150.190.225:16468/
+
+#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | ESPORTES",Premiere 4 SD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/506
 
 #EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | ESPORTES",Premiere 4 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/507
 
-#EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | ESPORTES",Premiere 5 HD
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | ESPORTES",Premiere 4 HD
+http://185.150.190.225:16472/
+
+#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | ESPORTES",Premiere 5 SD
 http://185.150.190.225:16476/
 
-#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | ESPORTES",Premiere 6 HD
+#EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | ESPORTES",Premiere 5 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/513
 
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | ESPORTES",Premiere 6 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/518
+
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | ESPORTES",Premiere 6 HD [Alter]
+http://185.150.190.225:16482/
 
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | ESPORTES",Premiere 7 HD
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SY31PgU.png" group-title="Canais | ESPORTES",Ge Fast HD
-https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8?ManoTV
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/523
 
 ############################################################################ ao vivo | FUTEBOL 
 
@@ -362,13 +377,7 @@ https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 4
 https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 5
-https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 6
-https://live.seo.tv.bo/live/SEO-5.m3u8
-
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="Jogos de hoje HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/LIVEYOUTUBE.png" group-title=" Canais | Jogos de hoje ",Jogos de hoje HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" gle=" Canais | Jogos de hoje ",Jogos de hoje HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/234252
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 7
