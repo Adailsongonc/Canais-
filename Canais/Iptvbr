@@ -2,7 +2,7 @@
 
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",20/02/2024 as 17:55
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",22/02/2024 as 19:00 horas 
 https://cr7v.short.gy/live3/GloboTVMirante/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.im.ge/2024/02/18/guEQ6P.Screenshot-20240217-195139-WhatsAppBusiness.jpg" group-title="DOAÇÃO",069.184.265-59 Adailson Gonçalves Ramos 
@@ -357,11 +357,14 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/523
 
 ############################################################################ ao vivo agora  
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V4fQjkA.png" group-title="ao vivo | FUTEBOL", Copinha 
-https://cr7v.short.gy/live7/SporTV24h/Index.m3u8
+ #EXTINF:-1 tvg-logo="https://imgur.com/SqdTHnU.png" group-title="ao vivo | FUTEBOL",COPA DO BRASIL 
+https://cr7v.short.gy/manotv/Jogo1/Index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V4fQjkA.png" group-title="ao vivo | FUTEBOL", Copinha 2
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/492 
+#EXTINF:-1 tvg-logo="https://imgur.com/SqdTHnU.png" group-title="ao vivo | FUTEBOL",COPA DO BR 2
+https://cr7v.short.gy/manotv/Caze/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/SqdTHnU.png" group-title="ao vivo | FUTEBOL",COPA DO BR 3
+https://cr7v.short.gy/manotv/GOAT/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV HD
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/33
