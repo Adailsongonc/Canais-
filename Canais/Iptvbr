@@ -1161,6 +1161,93 @@ https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
 
 ############################################################################ Canais | INFANTIL
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQKPD9l.png" group-title="Canais | ANIMES",Anime Tv
+https://stmv1.srvif.com/animetv/animetv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yxB5nBr.png" group-title="Canais | ANIMES",Hallo Anime
+https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HpgzT5E.png" group-title="Canais | ANIMES",Adult Swim SD
+http://c.strzzi.site:80/evz11t/41sp3k/2986765
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HpgzT5E.png" group-title="Canais | ANIMES",Adult Swim FHD
+http://c.strzzi.site:80/evz11t/41sp3k/2986763
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1R3qvtY.png" group-title="Canais | ANIMES",Mylou
+https://cdnhd.iblups.com/hls/J5SPE667XC.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b12a63543eabe272b1603497844fc92f.webp" group-title="Canais | ANIMES",ANIME STATION TV
+https://stmv1.srvif.com/otaku/otaku/chunklist_w948376476.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jy888YnXiR9L0HAuDTzHuUCOpGCVD9pSTgg-yqO2umVXk80i3f-fYhb2r1_hiIQL4XA" group-title="Canais | ANIMES",GOGOPLAY TV
+https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/442d0e9d16595bd786733d685f375b56.webp" group-title="Canais | ANIMES",OTAKU SIGN TV
+https://stmv1.srvif.com/otaku/otaku/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C5nMqAf.png" group-title="Canais | ANIMES",WORDING TV
+https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jKBb65w.png" group-title="Canais | ANIMES",GEEKDOT
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="Canais | ANIMES",LOADING TV
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgilMWlgQYFXnK2f5Z_0phJKXhS7I1TBXU7LWKT-_fP44XQCXE6o42zB7UvpBqlfPVQKekGk79DNXRN78X9LTMKcM0u3Ishet469K4OR5rvETl_Fmm4N7ssz5fMYmnHm55xlFl5Pp3HlgaXGJxT6LrbJPMKrwwGLBGZsRxEmkq7A6mgOwOEx_F1YIaptmk/s200/TV%20SERRA%20BRANCA.jpg" group-title="Canais | ANIMES",TV SERRA BRANCA
+https://stmv3.voxtvhd.com.br/tvmancheteweb/tvmancheteweb/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3eabf05ad0127a53af71227f1fe132a1.webp" group-title="Canais | ANIMES",AniTV
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KQU5DvXf2ZmZStMzo2wk7PD5L7sVjWr6c-x6MCSAm9iHJ438fYik16paS7xd-cVKu6U" group-title="Canais | ANIMES",EnerGeek HD
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KQU5DvXf2ZmZStMzo2wk7PD5L7sVjWr6c-x6MCSAm9iHJ438fYik16paS7xd-cVKu6U" group-title="Canais | ANIMES",EnerGeek
+https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="Canais | ANIMES",One Piece
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Canais | ANIMES",Naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="Canais | ANIMES",Naruto Shippuden
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/646663b01593940008990a57/colorLogoPNG.png" group-title="Canais | ANIMES",Captain Tsubasa
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="Canais | ANIMES",Beyblade
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Athwean.png" group-title="Canais | ANIMES",Tokusato
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png" group-title="Canais | ANIMES",Pluto TV Geek e Tech
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cavaleiros-do-zodiaco-logo-7BEBD54081-seeklogo.com.png" group-title="Canais | ANIMES",CAVALEIROS DO ZODÍADO
+http://ddsw.xyz:80/8590438094/9912004092/968497
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/I/InuYasha-logo-A9817EBAFB-seeklogo.com.png" group-title="Canais | ANIMES",INUYASHA
+http://ddsw.xyz:80/8590438094/9912004092/968442
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z75nfUG.png" group-title="Canais | ANIMES",DRAGON BALL
+http://24hrs.homelinux.com:80/24H-dragon.ball/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zH0WOJk.png" group-title="Canais | ANIMES",DRAGON BALL Z
+http://24hrs.homelinux.com:80/24H-dragon.ball.z/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r4kLbID.png" group-title="Canais | ANIMES",DRAGON BALL GT
+http://24hrs.homelinux.com:80/24H-dragon.ball.gt/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/in3Pxrk.png" group-title="Canais | ANIMES",DRAGON BALL SUPER
+http://24hrs.homelinux.com:80/24H-dragon.ball.super/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Pm60ysy.png" group-title="Canais | ANIMES",Death Note
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="Canais | INFANTIL",Cocoricó
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
