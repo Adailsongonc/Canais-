@@ -1346,6 +1346,222 @@ http://24hrs.homelinux.com:80/24H-Masha.e.o.Urso.S01eS02eS03/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",Caverna do Dragão 24h
 http://24hrs.homelinux.com:80/24H-Caverna.do.dragao.S01E01/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pDAPjsI.png" group-title="Canais | INFANTIL",MI TV
+https://stmv4.voxtvhd.com.br/1990/1990/chunklist_w306880476.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/LPSRILd.png" group-title="Canais | INFANTIL",KID MAIS
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="Canais | INFANTIL",RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BqVNUCU.png" group-title="Canais | INFANTIL",NICK JR CLUB
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h247TWe.png" group-title="Canais | INFANTIL",Nick Teen
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c1c56030-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f7b86a23-4b64-4f9c-9c4c-bedb3edcc1b1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/castelo-ra-tim-bum-logo-9F792CF237-seeklogo.com.png" group-title="Canais | INFANTIL",CASTELO RATIMBUM
+http://ddsw.xyz:80/8590438094/9912004092/968257
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YbhFTW9.png" group-title="Canais | INFANTIL",AS AVENTURAS DE TINTIN
+http://ddsw.xyz:80/8590438094/9912004092/968354
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5nUItrd.png" group-title="Canais | INFANTIL",De Crianca para Crianaca
+https://cdn-1.nxplay.com.br/dcpc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8lvAOzC.png" group-title="Canais | INFANTIL",TOON GOGGLES BRASIL
+https://stream.ads.ottera.tv/cl/231215clu5ca375fkgdrav18f0/854x480_1355200_2_f.m3u8?i=475_274
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mSng9h7.png" group-title="Canais | INFANTIL",KURIAKOS KIDS
+https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1570960268_b1548000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CbXCADr.png" group-title="Canais | INFANTIL",TV KIDMAIS
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w560660843.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gCjK2dB.png" group-title="Canais | INFANTIL",TV Visual
+https://stmv1.srvif.com/renanxs/renanxs/chunklist_w1743307911.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/okBN6Xo.png" group-title="Canais | INFANTIL",PORTAL HD
+https://stmv1.srvif.com/grupohentretenimento/grupohentretenimento/chunklist_w446277104.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eMmKpvY.png" group-title="Canais | INFANTIL",TRÊS PASSOS TV
+https://stmv1.samcast.com.br/pedrohenrique6191/pedrohenrique6191/chunklist_w1771289579.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SHUiVHv.png" group-title="Canais | INFANTIL",TV JUNDIAÍ HOJE
+https://stmv2.samcast.com.br/rosanaa9913/rosanaa9913/chunklist_w736151396.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xf2VM5n.png" group-title="Canais | INFANTIL",GOSPEL CARTOON
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3oSrAcj.png" group-title="Canais | INFANTIL",ESTAÇÃO WEB TV
+https://video01.kshost.com.br:4443/maria8005/maria8005/chunklist_w200414404.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SyJoM4N.png" group-title="Canais | INFANTIL",WEB TV CAICO
+https://stmv1.paineltv.net/wladimyr7277/wladimyr7277/chunklist_w967872467.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XQsXqfI.png" group-title="Canais | INFANTIL",TOP TV ON BRASIL
+https://video05.logicahost.com.br/toptvonbrasil/toptvonbrasil/chunklist_w1524461515.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XQsXqfI.png" group-title="Canais | INFANTIL",TOP TV ON BRASIL HD
+https://video05.logicahost.com.br/toptvonbrasil/toptvonbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oClFxvg.png" group-title="Canais | INFANTIL",SAT TV WEB
+https://stmv7.samcast.com.br/elias7768/elias7768/chunklist_w1757695318.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CLMaRHA.png" group-title="Canais | INFANTIL",JETSONS TV
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oGTOXak.png" group-title="Canais | INFANTIL",REDE NEWS TV
+https://stmv.jnbhost.com.br/redenewstv/redenewstv/chunklist_w1894004897.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oGTOXak.png" group-title="Canais | INFANTIL",REDE NEWS TV HD
+https://stmv.jnbhost.com.br/redenewstv/redenewstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMDnoni.png" group-title="Canais | INFANTIL",WEB TV MATO GROSSO NEWS
+https://video02.logicahost.com.br/matogrossonews/matogrossonews/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N9Bmjex.png" group-title="Canais | INFANTIL",Desenhos Clássicos TV
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w2046715321.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p8zvfpu.png" group-title="Canais | INFANTIL",Rede Manchete
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w200396624.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network
+http://187.95.95.243:80/Cartoon-Network/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD
+https://cdn2.connectbr.com.br/Cartoon-Network/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima32115728874.jpg" group-title="Canais | INFANTIL",Fanpop TV
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cEE3Bv1.png" group-title="Canais | INFANTIL",Cartoonito
+http://s.apkwuv.xyz:80/demopadexchange/demopad/176172
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",Discovery Kids
+https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BmmsPO8.png" group-title="Canais | INFANTIL",TVZYN
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/3bvMvx2.png" group-title="Canais | INFANTIL",Rakuten Família
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/3bvMvx2.png" group-title="Canais | INFANTIL",Rakuten Família HD
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dO4krB3.png" group-title="Canais | INFANTIL",TV RA TIM BUM
+http://186.237.99.202:8000/play/TVRATIMBUM/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/trwd2sT.png" group-title="Canais | INFANTIL",Peppa Pig
+https://livestream.zazerconer.workers.dev/channel/UCvD9GB-E4q_TuMpwUtFBhLA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tOCYcye.png" group-title="Canais | INFANTIL",A Casa Mágica da Gabby
+https://livestream.zazerconer.workers.dev/channel/UC4bG4HsFDLpm1qTPDqZFRgA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9iF63a.png" group-title="Canais | INFANTIL",Talking Tom & Amigos
+https://livestream.zazerconer.workers.dev/channel/UCY9xIaF8CIdS23e0W6nHAmg.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dXxaTwR.png" group-title="Canais | INFANTIL",Clubinho 
+http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/WHmHmUH.png" group-title="Canais | INFANTIL",Zoomoo HD
+https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1jXXHVr.png" group-title="Canais | INFANTIL",Rugrats
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/6202a7fcfb1b100008811f54/colorLogoPNG.png" group-title="Canais | INFANTIL",Nickelodeon Rocket Power
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6202a7fcfb1b100008811f54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bHhxhRb.png" group-title="Canais | INFANTIL",As Pistas de Blue
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png" group-title="Canais | INFANTIL",Baby Shark
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="Canais | INFANTIL",AS Tartarugas Ninja
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png" group-title="Canais | INFANTIL",Moranguinho
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://imgur.com/t5RZzN7.png" group-title="Canais | INFANTIL",TELETUBBIES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e50055286f6b000838c067/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/q7Jadd8.png" group-title="Canais | INFANTIL",PAW Patrol Patrulha Canina
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6495c7ad115d060008bf6df0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Nick Teen" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="Canais | INFANTIL",Nick Teen
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c1c56030-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f7b86a23-4b64-4f9c-9c4c-bedb3edcc1b1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4a5RFCU.png" group-title="Canais | INFANTIL",Pluto TV Junior
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=978179f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc2b3e9d-2c6a-4239-b56d-b64e1afa1902&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="O Reino Infantil" tvg-logo="https://imgur.com/ElG7z3z.png" group-title="Canais | INFANTIL",O Reino Infantil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="As Aventuras de Jackie Chan" tvg-logo="https://imgur.com/VNrPzdh.png" group-title="Canais | INFANTIL",As Aventuras de Jackie Chan
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c1c38b71-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a519ea2b-1a16-4441-9e07-a7ef103cd260&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/g505N5r.png" group-title="Canais | INFANTIL",Pluto TV Kids
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a101-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46e9fe4e-4908-4a98-8fa8-41e5460e3ce5&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j9CMGyU.png" group-title="Canais | INFANTIL",Nick Jr. Club
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kJHRcfo.png" group-title="Canais | INFANTIL",Turma da Mônica
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846021-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0dd3fbda-a8d5-4964-8b9e-6f6e95a3db5e&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Nick Clássico" tvg-name="NICK JR" tvg-logo="https://imgur.com/P1l0cnx.png" group-title="Canais | INFANTIL",NICK CLÁSSICO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-id="Babyfirst" tvg-name="Babyfirst" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Canais | INFANTIL",Babyfirst
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="Canais | INFANTIL",Cocoricó
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Canais | INFANTIL",Bob Esponja Calça Quadrada
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vg9sf1e.png" group-title="Canais | INFANTIL",Scoobdoo
+http://24hrs.homelinux.com:80/24H-scoobdoo/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pVlm17.png" group-title="Canais | INFANTIL",Popeye
+http://24hrs.homelinux.com:80/24H-Popeye.S01/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DljZYPw.png" group-title="Canais | INFANTIL",Os Simpsons
+http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WF9xZ0t.png" group-title="Canais | INFANTIL",PicaPau
+http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HEmOhto.png" group-title="Canais | INFANTIL",Os Flistony 
+http://24hrs.homelinux.com:80/24H-osflistony/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rplqWG1.png" group-title="Canais | INFANTIL",Caverna do Dragão
+http://24hrs.homelinux.com:80/24H-Caverna.do.dragao.S01E01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M3P9vZW.png" group-title="Canais | INFANTIL",DREAM WORKS
+https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/q4FpFH7.jpg" group-title="Canais | INFANTIL",LEO O CAMINHAO
+https://ythlsgo.onrender.com/video/MiyuKjNPui8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FA0RL80.png" group-title="Canais | INFANTIL",Power Rangers
+https://ythls.armelin.one/channel/UCE3_4WG166NcyQPcRtgGWkQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LM3aUxx.png" group-title="Canais | INFANTIL",X-MEN EVOLUTION
+http://24hrs.homelinux.com:80/24H-X-Men.Evolution.S01-S02-S03-S04/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/5/59/Oggy_and_the_Cockroaches_logo%28Brazil%29.webp/revision/latest?cb=20230907102439" group-title="Canais | INFANTIL",Oggy e as Baratas Tontas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
 ############################################################################ Canais | INTERNACIONAL
 
 #EXTINF:-1  tvg-logo="https://imgur.com/11aNWuU.png" group-title="Canais | INTERNACIONAL",Sic TV
