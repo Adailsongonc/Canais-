@@ -334,7 +334,7 @@ http://150.136.62.38:8880/channel/n11c6e25c/index.m3u8?q=1704444391508
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | ESPORTES",Premiere 7 HD
 http://150.136.62.38:8880/channel/n2916fe8a/index.m3u8?q=1704444391508
 
-#EXTINF:-1 tvg-id="paramount" tvg-name="paramount" tvg-logo="https://i.im.ge/2024/05/08/ZVXtLm.images.png" group-title="Canais | ESPORTES",paramount HD
+#EXTINF:-1 tvg-id="paramount" tvg-name="paramount" tvg-logo="https://i.im.ge/2024/05/09/ZzFRR6.images-1.jpeg" group-title="Canais | ESPORTES",paramount HD
 https://brflu.walk-tv.com/5912/tracks-v1a1/mono.m3u8
 
 ############################################################################ ao vivo -title="ao vivo | FUTEBOL",CazéTV HD
