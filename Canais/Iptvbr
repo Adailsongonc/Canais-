@@ -68,8 +68,8 @@ https://cr7v.short.gy/live7/GloboRS/Index.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | ABERTO",Globo BA HD
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 tvg-id="TV MEIO NORTE HD" tvg-name="CANAL RURAL" tvg-logo="https://i.im.ge/2024/04/17/ZFax6m.Logotipo-da-TV-Meio.png"group-title="Canais | ABERTOS",TV MEIO NORTE HD
-HDhttp://saopaulo01.relaystream.io:1935/lidertvsspgmail.com/lidertvsspgmail.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TV CLUBE HD" tvg-name="TV CLUBE" tvg-logo="https://i.im.ge/2024/04/17/ZFax6m.Logotipo-da-TV-Meio.png"group-title="Canais | ABERTOS",TV CLUBE HD
+https://0146-vos.dtvott.com/DASH/stream_06/Segment-4164194010513926.m4v
 
 #EXTINF:-1 tvg-id="TV CLUBE HD" tvg-name="TV CLUBE HD" tvg-logo="https://i.im.ge/2024/03/12/RqbtFG.Logotipo-da-TV-Clube-Teresina.png" group-title="Canais | ABERTO",TV CLUBE HD [alter]
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1000333042.m3u8
