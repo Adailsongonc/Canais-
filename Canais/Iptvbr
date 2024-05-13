@@ -652,7 +652,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf43700075
 ############################################################################ Canais | NOVELAS
 
 #EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA SD
-https://epw9.short.gy/8mrmkp
+https://epw9.short.gy/gXkutU/viva/adailsoniptvfree/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
 http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/2536.m3u8
@@ -661,7 +661,7 @@ http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/2536.m3u8
 http://64.31.40.14:14884/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas SD
-https://epw9.short.gy/BT54A8/adailsoniptvfree/SÉRIES/mono.m3u8
+https://cirion-aju.ittv.com.br/TNT_NOVELAS/index.mpd
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas HD
 https://epw9.short.gy/BT54A8/adailsoniptvfree/SÉRIES/mono.m3u8
