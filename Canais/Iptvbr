@@ -652,7 +652,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf43700075
 ############################################################################ Canais | NOVELAS
 
 #EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA SD
-https://0073-jbc.dtvott.com/dash_live_0073/dash/0073_VIVA-video=2564800-102948329156726.dash
+https://0073-jbc.dtvott.com/dash_live_0073/dash/0073_VIVA-video=2564800-102948329156726.m3u8 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
 http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/2536.m3u8
