@@ -310,35 +310,33 @@ http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZev91o40nUnk
 #EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | ESPORTES",UFC Fightpass FHD
 http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/39
 
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD
-https://cr7v.short.gy/manofree/PSD/Index.m3u8
-
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD [Alter]
-http://150.136.62.38:8880/channel/n32248045/index.m3u8?q=1704444391508
-
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes FHD
-https://cr7v.short.gy/manoiptvfree/PremiereClube/Index.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | ESPORTES",Premiere 2 HD
-https://d31ii3fk8fd7mh.cloudfront.net/out/v1/bebecfdb88004eca85a0791218dac6f0/index_audio_1_0_1333363.mp4?m=1713999384
-
-#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | ESPORTES",Premiere 2 FHD
-https://epw9.short.gy/knUzrM/adailsoniptvfree/ESPORTES/mono.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | ESPORTES",Premiere 3 HD
-http://185.150.190.225:16468/
+#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | ESPORTES",Premiere 3 HD [Alter]
+https://brflu.walk-tv.com/5920/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | ESPORTES",Premiere 4 HD
-http://150.136.62.38:8880/channel/n11c6e25e/index.m3u8?q=1704444391508
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31537
 
-#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | ESPORTES",Premiere 5 SD
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | ESPORTES",Premiere 4 HD [Alter]
+https://brflu.walk-tv.com/5918/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | ESPORTES",Premiere 5 HD
 http://185.150.190.225:16476/
 
+#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | ESPORTES",Premiere 5 HD [Alter]
+https://brflu.walk-tv.com/5916/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | ESPORTES",Premiere 6 HD
-http://150.136.62.38:8880/channel/n11c6e25c/index.m3u8?q=1704444391508
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31543
+
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | ESPORTES",Premiere 6 HD [Alter]
+https://brflu.walk-tv.com/5915/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | ESPORTES",Premiere 7 HD
-http://150.136.62.38:8880/channel/n2916fe8a/index.m3u8?q=1704444391508
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31545
+
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | ESPORTES",Premiere 7 HD [Alter]
+https://brflu.walk-tv.com/5914/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="paramount" tvg-name="paramount" tvg-logo="https://i.im.ge/2024/05/10/Zp5kFS.images-2.jpeg" group-title="Canais | ESPORTES",paramount HD
 https://brflu.walk-tv.com/5912/tracks-v1a1/mono.m3u8
