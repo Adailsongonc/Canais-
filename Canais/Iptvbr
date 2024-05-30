@@ -245,19 +245,25 @@ http
 
 ######################################################################ESPORTES 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD
-https://epw9.short.gy/LAHnRz/sportv-ao-vivo/index.m3u8
+https://cr7v.short.gy/manoiptvfree/SporTV-HD/Index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD [Alter]
-https://epw9.short.gy/LAHnRz/sportv-ao-vivo/index.m3u8
+https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV 4K
-http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31163
+http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/52090
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 HD
-https://epw9.short.gy/knUzrM/adailsoniptvfree/ESPORTES/mono.m3u8
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31163
+
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 HD [Alter]
+https://brflu.walk-tv.com/5931/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | ESPORTES",SporTV 3 HD
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31166
+
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | ESPORTES",SporTV 3 HD [Alter]
+https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN SD
 https://epw9.short.gy/5vzPd3/ESPORTES/SPN BRASIL/index.m3u8
