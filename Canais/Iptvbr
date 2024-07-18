@@ -258,9 +258,7 @@ http
 
 ######################################################################ESPORTES 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD
-http://cdnexpress.homelinux.net/live/3.m3u8
-
-
+https://epw9.short.gy/O9Kadx/SPORTV/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD [Alter]
 http://179.124.14.153:8080/19/mpegts
