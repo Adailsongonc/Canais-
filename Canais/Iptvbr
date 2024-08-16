@@ -358,6 +358,10 @@ http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31543
 https://brflu.walk-tv.com/5915/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | ESPORTES",Premiere 7 HD
+
+#EXTINF:-1 tvg-id="PremiereMosaico" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais PREMIERE",ðŸŸ¢Premiere Mosaico-Multi-Telas
+http://novo1.xyz:8080/vitorfontes/ivo/84771
+
 https://brflu.walk-tv.com/5914/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais | ESPORTES",CazéTV YT 
