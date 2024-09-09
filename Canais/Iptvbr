@@ -50,7 +50,7 @@ http://5ce.co:80/pamelaflores/92446060a/35767
 
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo RJ HD [ALTER]
-https://abc.embedmax.site/globorj/tracks-v1a1/mono.m3u8
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_cac94812150faabccfd6710ebb3f6117c3f9c24f/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo RJ HD
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/32170
