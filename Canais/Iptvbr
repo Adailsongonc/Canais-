@@ -264,10 +264,10 @@ https://stream.m3u8.one/sportv2/tracks-v1a1/mono.m3u8
 https://stream.m3u8.one/sportv2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | SporTV",SporTV 3 HD
-http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31166
+https://new.m3u8.one/sportv3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | SporTV",SporTV 3 HD [Alter]
-https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8
+https://new.m3u8.one/sportv3/tracks-v1a1/mono.m3u8
 
 ###################################################################################################
 #################Canais ESPN 
