@@ -353,10 +353,10 @@ https://stream.m3u8.one/pre5/tracks-v1a1/mono.m3u8
 https://stream.m3u8.one/pre5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | premiere",Premiere 6 HD
-http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31543
+https://new.m3u8.one/pre6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | premiere",Premiere 6 HD [Alter]
-https://brflu.walk-tv.com/5915/tracks-v1a1/mono.m3u8
+https://new.m3u8.one/pre6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | premiere",Premiere 7 HD
 https://brflu.walk-tv.com/5914/tracks-v1a1/mono.m3u8
