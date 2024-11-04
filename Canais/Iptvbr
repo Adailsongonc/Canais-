@@ -301,7 +301,7 @@ http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/118751
 ###########################################################################
 ################Canais Band sports
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | Band sports",Band Sports HD
-https://new.m3u8.one/bandsport/tracks-v1a1/mono.m3u8
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.mpd
 #####################################################################################
 ##########################Canais Combate 
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | Combate",Combate HD
