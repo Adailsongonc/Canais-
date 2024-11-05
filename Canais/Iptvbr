@@ -264,13 +264,14 @@ https://embedcanaistv.site/sportv2/tracks-v1a1/mono.m3u8
 https://embedcanaistv.site/sportv2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | SporTV",SporTV 3 HD
-https://new.m3u8.one/sportv3/tracks-v1a1/mono.m3u8
+https://embedcanaistv.site/sportv3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | SporTV",SporTV 3 HD [Alter]
-https://new.m3u8.one/sportv3/tracks-v1a1/mono.m3u8
+https://embedcanaistv.site/sportv3/tracks-v1a1/mono.m3u8
 
 ###################################################################################################
 #################Canais ESPN 
+
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | Espn",ESPN SD
 https://embedcanaistv.site/espn/tracks-v1a1a2/mono.m3u8
 
