@@ -272,7 +272,7 @@ https://new.m3u8.one/sportv3/tracks-v1a1/mono.m3u8
 ###################################################################################################
 #################Canais ESPN 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | Espn",ESPN SD
-https://stream.m3u8.one/espn/tracks-v1a1/mono.m3u8
+https://embedcanaistv.site/espn/tracks-v1a1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | Espn",ESPN SD [Alter]
 https://cr7v.short.gy/manoiptvfree/ESPNSD/Index.m3u8
