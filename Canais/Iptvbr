@@ -319,7 +319,7 @@ https://new.m3u8.one/ufcfightpass/tracks-v1a1/mono.m3u8
 ########################################CANAIS PREMIERE CLUBES 
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | premiere",Premiere Clubes 
-https://stream.m3u8.one/pre1/tracks-v1a1/mono.m3u8
+https://embedcanaistv.site/premiereclubes/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | premiere",Premiere Clubes HD
 https://stream.m3u8.one/pre1/tracks-v1a1/mono.m3u8
