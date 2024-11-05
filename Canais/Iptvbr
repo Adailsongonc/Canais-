@@ -324,20 +324,20 @@ https://new.m3u8.one/ufcfightpass/tracks-v1a1/mono.m3u8
 https://embedcanaistv.site/premiereclubes/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | premiere",Premiere Clubes HD
-https://stream.m3u8.one/pre1/tracks-v1a1/mono.m3u8
+https://embedcanaistv.site/premiereclubes/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | premiere",Premiere Clubes HD [Alter]
-https://stream.m3u8.one/pre1/tracks-v1a1/mono.m3u8
+https://embedcanaistv.site/premiereclubes/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | premiere",Premiere Clubes FHD
-https://stream.m3u8.one/pre1/tracks-v1a1/mono.m3u8
+https://embedcanaistv.site/premiereclubes/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | premiere",Premiere 2 HD
 https://anonmedia.foo/premiere2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | premiere",Premiere 2 HD [Alter]
-https://stream.m3u8.one/pre2/tracks-v1a1/mono.m3u8
+https://anonmedia.foo/premiere2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | premiere",Premiere 3 FHD
@@ -348,7 +348,7 @@ https://anonmedia.foo/premiere3/tracks-v1a1/mono.m3u8
 https://anonmedia.foo/premiere4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | premiere",Premiere 4 HD [Alter]
-https://new.m3u8.one/pre4/tracks-v1a1/mono.m3u8
+https://anonmedia.foo/premiere4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | premiere",Premiere 5 HD
 https://anonmedia.foo/premiere5/tracks-v1a1/mono.m3u8
@@ -360,7 +360,7 @@ https://anonmedia.foo/premiere5/tracks-v1a1/mono.m3u8
 https://embedcanaistv.site/premiere6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | premiere",Premiere 6 HD [Alter]
-https://new.m3u8.one/pre6/tracks-v1a1/mono.m3u8
+https://embedcanaistv.site/premiere6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | premiere",Premiere 7 HD
 https://anonmedia.foo/premiere7/tracks-v1a1/mono.m3u8
