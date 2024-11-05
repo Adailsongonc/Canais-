@@ -339,7 +339,7 @@ https://stream.m3u8.one/pre2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | premiere",Premiere 3 FHD
-https://new.m3u8.one/pre3/tracks-v1a1/mono.m3u8
+https://anonmedia.foo/premiere3/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | premiere",Premiere 4 HD
