@@ -327,7 +327,7 @@ https://embedcanaistv.site/starplus/index.m3u8
 ################Canais Band sports
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | Band sports",Band Sports HD
-https://embedcanaistv.site/bandsports/tracks-v1a1/mono.m3u8
+https://cdn-1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
 
 #####################################################################################
 ##########################Canais Combate 
