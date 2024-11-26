@@ -388,7 +388,7 @@ https://super-cdn.link/premiere6/index.m3u8
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/158
 
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | premiere",Premiere 7 HD
-https://anonmedia.foo/premiere7/tracks-v1a1/mono.m3u8
+https://super-cdn.link/premiere7/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 8" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | premiere",Premiere 8 HD
 https://embedcanaistv.site/premiere8/tracks-v1a1/mono.m3u8
