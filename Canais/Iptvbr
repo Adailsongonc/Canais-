@@ -245,15 +245,15 @@ https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w309642670.m3u8?Mano
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais | ABERTO",TV Gazeta HD
 http
 
-######################################################################## Canais | REALIDADE BBB 25
+######################################################################## Canais | REALIDADE BBB25
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Realidade | BBB",BBB 25 Cam 1
+#EXTINF:-1 tvg-logo=".#EXTINF:"self" tvg-id="-1" tvg-logo="https://i.imgur.com/Py23IJl.jpeg" group-title="Realidade | BBB",BBB 25 Cam 1
 https://cr7v.short.gy/ManoTVfree/BBB1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Realidade | BBB",BBB 25 Cam 2
 https://cr7v.short.gy/ManoTVfree/BBB2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Py23IJl.jpeg" group-title="Realidade | BBB",BBB 25 Cam 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Py23IJl.jpeg" group-title="Realidade | BBB",BBB 25 Cam 3 Mosaico 
 https://cr7v.short.gy/ManoTVfree/Mosaico/index.m3u8
 
 
@@ -293,10 +293,7 @@ https://cdn-2.nxplay.com.br/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | Espn",ESPN HD
 https://embedcanaistv.site/espn/tracks-v1a1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | Espn",ESPN FHD
-https://embedcanaistv.site/espn/tracks-v1a1a2/mono.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | Espn",ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.co://i.imgur.com/ZAHnoPh.png" group-title="Canais | Espn",ESPN 2 HD
 https://anonmedia.foo/espn2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | Espn",ESPN 3 HD
