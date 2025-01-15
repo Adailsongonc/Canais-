@@ -247,10 +247,10 @@ http
 
 ######################################################################## Canais | REALIDADE BBB25
 
-#EXTINF:-1 tvg-logo=".#EXTINF:"self" tvg-id="-1" tvg-logo="https://i.imgur.com/Py23IJl.jpeg" group-title="Realidade | BBB",BBB 25 Cam 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Py23IJl.jpeg" group-title="Realidade | BBB",BBB 25 Cam 1
 https://cr7v.short.gy/ManoTVfree/BBB1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Realidade | BBB",BBB 25 Cam 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Py23IJl.jpeg" group-title="Realidade | BBB",BBB 25 Cam 2
 https://cr7v.short.gy/ManoTVfree/BBB2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Py23IJl.jpeg" group-title="Realidade | BBB",BBB 25 Cam 3 Mosaico 
