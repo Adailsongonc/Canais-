@@ -253,44 +253,8 @@ https://cr7v.short.gy/ManoTVfree/BBB1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Realidade | BBB",BBB 25 Cam 2
 https://cr7v.short.gy/ManoTVfree/BBB2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Realidade | BBB",BBB 25 Cam 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Py23IJl.jpeg" group-title="Realidade | BBB",BBB 25 Cam 3
 https://cr7v.short.gy/ManoTVfree/Mosaico/index.m3u8
-
-
-#EXTINF:"self" tvg-id="-1" tvg-logo="https://embedcanais.online/wp-content/uploads/2025/01/BBB-25-ao-vivo-Cozinha.webp" grupo -title="🟢 Realidade"|,🟢BBB Cozinha CAM 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
-#EXTVLCOPT:http-referrer=https://embedcanais.online/bbbcozinha2.php
-https://tv.fazoeli.co.za/m3u8/bbb8.m3u8
-
-#EXTINF:"self" tvg-id="-1" tvg-logo="https://embedcanais.online/wp-content/uploads/2025/01/BBB-25-ao-vivo-Cozinha.webp" grupo -title="🟢 Realidade"|,🟢BBB Cozinha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
-#EXTVLCOPT:http-referrer=https://embedcanais.online/bbbcozinha.php
-https://tv.fazoeli.co.za/m3u8/bbb4.m3u8
-
-#EXTINF:"self" tvg-id="-1" tvg-logo="https://i.imgur.com/Py23IJl.jpeg" group-title="🟢TESTES",🟢BBB Quarto 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
-#EXTVLCOPT:http-referrer=https://embedcanais.online/bbbquarto4.php
-https://tv.fazoeli.co.za/m3u8/bbb2.m3u8
-
-#EXTINF:"self" tvg-id="-1" tvg-logo="https://embedcanais.online/wp-content/uploads/2025/01/BBB-25-ao-vivo-Quarto-Nordeste.webp "group-title="🟢 Realidade"|,🟢BBB Quarto Nordeste
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
-#EXTVLCOPT:http-referrer=https://embedcanais.online/bbbquartonordeste.php
-https://tv.fazoeli.co.za/m3u8/bbb6.m3u8
-
-#EXTINF:"self" tvg-id="-1" tvg-logo="https://embedcanais.online/wp-content/uploads/2025/01/BBB-25-ao-vi-o-Quarto-50 -Anos.webp" group-title="🟢 Realidade"|,🟢BBB Quarto 50 Anos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
-#EXTVLCOPT:http-referrer=https://embedcanais.online/bbbquarto50anos.php
-https://tv.fazoeli.co.za/m3u8/bbb5.m3u8
-
-#EXTINF:"self" tvg-id="-1" tvg-logo="https://i.imgur.com/Py23IJl.jpeg" group-title="🟢 Realidade"|,🟢BBB Quarto Fantástico
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
-#EXTVLCOPT:http-referrer=https://embedcanais.online/bbbquartofantastico.php
-https://tv.fazoeli.co.za/m3u8/bbb7.m3u8
-
-#EXTINF:"self" tvg-id="-1" tvg-logo="https://i.imgur.com/Py23IJl.jpeg" group-title="🟢 Realidade"|,🟢BBB 25 PRINCIPAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
-#EXTVLCOPT:http-referrer=https://embedcanais.online/bbbprincipal.php
-http://conexao-vs.live/BBB1/index.m3u8
 
 
 ######################################################################
