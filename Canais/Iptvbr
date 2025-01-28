@@ -279,7 +279,7 @@ https://embedcanaistv.site/sportv2/tracks-v1a1/mono.ts.m3u8
 https://embedcanaistv.site/sportv2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | SporTV",SporTV 3 HD
-https://embedcanaistv.site/sportv3/tracks-v1a1/mono.m3u8
+https://embedcanaistv.site/sportv3/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | SporTV",SporTV 3 HD [Alter]
 https://embedcanaistv.site/sportv3/tracks-v1a1/mono.m3u8
