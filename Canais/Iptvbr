@@ -835,7 +835,7 @@ http://168.205.87.198:8555/live/1492/123456/159.m3u8?ManoTV
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/niPJm1b.png" group-title="Canais | COMÉDIA",CHAVES
-http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
+https://embedcanaistv.site/24h-chaves/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tNT43pe.png" group-title="Canais | COMÉDIA",Os Três Patetas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
